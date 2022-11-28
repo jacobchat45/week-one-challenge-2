@@ -22,13 +22,12 @@ Just open up the webpage. You can see it deployed at https://jacobchat45.github.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-![screenshot of the webpage](assets/images/2022-11-28%20(1).png)
-![screenshot of the webpage](assets/images/2022-11-28%20(2).png)
-![screenshot of the webpage](assets/images/2022-11-28.png)
+![screenshot of the webpage](assets/images/2022-11-28%20(1).png?raw=true)
+![screenshot of the webpage](assets/images/2022-11-28%20(2).png?raw=true)
+![screenshot of the webpage](assets/images/2022-11-28.png?raw=true)
+
 
 
 ## Credits
