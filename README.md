@@ -24,9 +24,9 @@ Just open up the webpage. You can see it deployed at https://jacobchat45.github.
 
 
 
-![screenshot of the webpage](assets/images/2022-11-28%20(1).png?raw=true)
-![screenshot of the webpage](assets/images/2022-11-28%20(2).png?raw=true)
-![screenshot of the webpage](assets/images/2022-11-28.png?raw=true)
+![screenshot of the webpage](Assets/images/2022-11-28%20(1).png?raw=true)
+![screenshot of the webpage](Assets/images/2022-11-28%20(2).png?raw=true)
+![screenshot of the webpage](Assets/images/2022-11-28.png?raw=true)
 
 
 
